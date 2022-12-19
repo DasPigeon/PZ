@@ -12,8 +12,9 @@
 6. ['70 Dodge Challenger](https://steamcommunity.com/sharedfiles/filedetails/?id=2873290424)
 7. '89 LAND ROVER Defender 110
 8. '88 Volkswagen Golf Mk2
-
+9. Tsar's Common Library 
+10. RotatorsLib
+11. W900 Semi-Truck 
 
 ### Considering 
-
 1. ['78 AM General M35A2 + M49A2C + M50A3](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995) 
