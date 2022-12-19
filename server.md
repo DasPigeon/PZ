@@ -10,10 +10,8 @@
 4. ['88 Chevrolet S10](https://steamcommunity.com/sharedfiles/filedetails/?id=2886832936)
 5. ['89 Ford Bronco](https://steamcommunity.com/sharedfiles/filedetails/?id=2886833398)
 6. ['70 Dodge Challenger](https://steamcommunity.com/sharedfiles/filedetails/?id=2873290424)
-
-To add:
-
-
+7. '89 LAND ROVER Defender 110
+8. '88 Volkswagen Golf Mk2
 
 
 ### Considering 
