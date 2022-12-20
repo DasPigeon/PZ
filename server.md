@@ -26,3 +26,4 @@
 3. [Rename Contains](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295)
 4. [Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421) 
 5. ['85 Mercedes Benz W123](https://steamcommunity.com/sharedfiles/filedetails/?id=2469388752) 
+6. ['88 Volkswagen Jetta Mk2](https://steamcommunity.com/sharedfiles/filedetails/?id=2522173579)
