@@ -20,14 +20,17 @@
 14. ['88 Volkswagen Jetta Mk2](https://steamcommunity.com/sharedfiles/filedetails/?id=2522173579)
 15. ['85 Mercedes Benz W123](https://steamcommunity.com/sharedfiles/filedetails/?id=2469388752) 
 16. [Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421) 
-
-### Considering 
-1. ['78 AM General M35A2 + M49A2C + M50A3](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995) 
+17. ['92 NISSAN Skyline GT-R (R32)](https://steamcommunity.com/sharedfiles/filedetails/?id=2846036306)
+18. ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
+19. [Tread's Water Tank Trucks [41.65+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2719592131)
+20. ['78 AM General M35A2 + M49A2C + M50A3](https://steamcommunity.com/sharedfiles/filedetails/?id=2799152995)
+21. [Filibuster Rhymes' Used Cars!](https://steamcommunity.com/sharedfiles/filedetails/?id=1510950729)
+22. [Special Emergency Vehicles & FBI for Filibuster Rhymes' Used Cars!](https://steamcommunity.com/sharedfiles/filedetails/?id=2849455153) 
+23. 
 
 
 ### Pinned for Future Use
 1. [FuelAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916)
 3. [Rename Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295)
-7. ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
 8. [Autotsar Motorclub](https://steamcommunity.com/workshop/filedetails/?id=2778576730)
 9. [Autotsar Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356) 
