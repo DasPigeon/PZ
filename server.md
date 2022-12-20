@@ -27,3 +27,4 @@
 4. [Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421) 
 5. ['85 Mercedes Benz W123](https://steamcommunity.com/sharedfiles/filedetails/?id=2469388752) 
 6. ['88 Volkswagen Jetta Mk2](https://steamcommunity.com/sharedfiles/filedetails/?id=2522173579)
+7. ['82 Oshkosh M911 + Military Semi-Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2618213077)
