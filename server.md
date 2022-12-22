@@ -28,8 +28,12 @@
 22. [Special Emergency Vehicles & FBI for Filibuster Rhymes' Used Cars!](https://steamcommunity.com/sharedfiles/filedetails/?id=2849455153) 
 23. ['84 Mercedes Benz W460](https://steamcommunity.com/sharedfiles/filedetails/?id=2805630347) 
 24. [fhqwhgads' Vehicle Pack - The Motorious Zone](https://steamcommunity.com/sharedfiles/filedetails/?id=2791656602)
-25. Small Town First Responders
-
+25. More Descriptions for Traits 
+26. Vehicle Tweaker API 
+27. Small Town First Responders
+28. Immersive Medicine Revised 
+29. Arithmechick's Screams of Pain
+30. Agrotsar Farming Company
 
 ### Pinned for Future Use
 1. [FuelAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916)
