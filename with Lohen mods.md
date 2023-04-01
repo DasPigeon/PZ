@@ -41,7 +41,7 @@
 35. [Authentic Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444&searchtext=authentic+animations) 
 36. [Fluffy Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538&searchtext=Fluffy+Hair)
 37. [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811&searchtext=) 
-38. [Military Grid Reference System For Map Callouts Cause You And Your Friends Get Lost Easily] (https://steamcommunity.com/sharedfiles/filedetails/?id=2928660831)
+38. [Military Grid Reference System For Map Callouts Cause You And Your Friends Get Lost Easily](https://steamcommunity.com/sharedfiles/filedetails/?id=2928660831)
 39. Improved Hair Menu 
 40. Harry's Hair
 41. AkyHair
