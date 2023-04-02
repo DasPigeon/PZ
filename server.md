@@ -34,6 +34,19 @@
 28. Immersive Medicine Revised 
 29. Arithmechick's Screams of Pain
 30. Agrotsar Farming Company
+31. [Arsenal[26] GunFighter Mod [2.0]](https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490&searchtext=Arsenal%5B26%5D+GunFighter+Mod+%5B2.0%5D)
+32. Brita's Weapon Pack
+33. ['90 Ford F350 Ambulance](https://steamcommunity.com/sharedfiles/filedetails/?id=2952802178&searchtext=)
+34. ['69 Mini Mk2](https://steamcommunity.com/sharedfiles/filedetails/?id=2937786633&searchtext=)
+35. [Authentic Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2207282444&searchtext=authentic+animations) 
+36. [Fluffy Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2447729538&searchtext=Fluffy+Hair)
+37. [Brita's Armor Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2460154811&searchtext=) 
+38. [Military Grid Reference System For Map Callouts Cause You And Your Friends Get Lost Easily](https://steamcommunity.com/sharedfiles/filedetails/?id=2928660831)
+39. Improved Hair Menu 
+40. Harry's Hair
+41. AkyHair
+42. ['90 Pierce Arrow Pumper](https://steamcommunity.com/sharedfiles/filedetails/?id=2942793445)
+43. ['90 Mercedes-Benz Unimog U1550L](https://steamcommunity.com/sharedfiles/filedetails/?id=2843855721)
 
 ### Pinned for Future Use
 1. [FuelAPI](https://steamcommunity.com/sharedfiles/filedetails/?id=2688538916)
