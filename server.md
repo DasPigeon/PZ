@@ -47,6 +47,7 @@
 41. AkyHair
 42. ['90 Pierce Arrow Pumper](https://steamcommunity.com/sharedfiles/filedetails/?id=2942793445)
 43. ['90 Mercedes-Benz Unimog U1550L](https://steamcommunity.com/sharedfiles/filedetails/?id=2843855721)
+44. ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 
 ### Pinned for Future Use
 3. [Rename Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295)
@@ -55,4 +56,7 @@
 10. RV interiors for Special Emergency Vehicles & FBI
 11. RV Interior
 12. [Aquatsar Yacht Club [for MP >= 41.66 disable anti-cheat type 12](https://steamcommunity.com/sharedfiles/filedetails/?id=2392987599) 
-14. Vehicle Tweaker API 
+14. Vehicle Tweaker API
+15. 
+16. 
+
