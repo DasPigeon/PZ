@@ -58,7 +58,7 @@
 48. [Mystic's Office Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=2862044942) (failed test - some items not retextured). 
 - [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)
 - [My home is your home!](https://steamcommunity.com/sharedfiles/filedetails/?id=2845189410)
-- [Yaki's Hair Salon](https://steamcommunity.com/sharedfiles/filedetails/?id=2761200458) 
+- [Yaki's Hair Salon](https://steamcommunity.com/sharedfiles/filedetails/?id=2761200458) (failed - will try again) 
 
 - [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
 - 
