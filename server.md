@@ -56,8 +56,8 @@
 
 ### 22-11-2023 Update Testing
 48. [Mystic's Office Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=2862044942) (failed test - some items not retextured). 
-- [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)
-- [My home is your home!](https://steamcommunity.com/sharedfiles/filedetails/?id=2845189410)
+- [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534) (failed - will try again) 
+- [My home is your home!](https://steamcommunity.com/sharedfiles/filedetails/?id=2845189410) (failed - will try again) 
 - [Yaki's Hair Salon](https://steamcommunity.com/sharedfiles/filedetails/?id=2761200458) (failed - will try again) 
 
 - [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
