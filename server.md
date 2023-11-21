@@ -55,7 +55,7 @@
 47. [ahz clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2908013174) 
 
 ### 22-11-2023 Update Testing
-48. [Mystic's Office Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=2862044942)
+48. [Mystic's Office Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=2862044942) (failed test - some items not retextured). 
 
 
 46. [PZ-ClothingUI - Clothing items grid view](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997)
