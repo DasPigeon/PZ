@@ -58,11 +58,17 @@
 50. [Spongie's Hair API](https://steamcommunity.com/sharedfiles/filedetails/?id=3041733782)
 51. [Spongie's Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2463184726)
 52. [Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798) 
+### Testing
 
+- [Hair Bows](https://steamcommunity.com/sharedfiles/filedetails/?id=2908747195)
+- [The Unlimited](https://steamcommunity.com/sharedfiles/filedetails/?id=2709502667)
+- [Ellie's Clothing Shop](https://steamcommunity.com/workshop/filedetails/?id=2740197862)
+
+- 
 ### Considerations
 - [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
 
-48. 
+
 54. [Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370)
 
 ### Failed Tests
