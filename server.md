@@ -50,6 +50,20 @@
 44. ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 45. [Rename Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295)
 
+### 22-11-2023 Update
+46. [PZ-ClothingUI - Clothing items grid view](https://steamcommunity.com/sharedfiles/filedetails/?id=2695471997)
+47. [I Need More Style: Clothing Edition](https://steamcommunity.com/sharedfiles/filedetails/?id=2861393067) 
+48. [Irrigation pipes for farming and water supply [B41+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2464581798) 
+49. [ahz clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2908013174) 
+50. [Spongie's Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2684285534)
+51. [Generator Time Remaining](https://steamcommunity.com/sharedfiles/filedetails/?id=2883397918) 
+52. [My home is your home!](https://steamcommunity.com/sharedfiles/filedetails/?id=2845189410)
+53. [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
+54. [Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370)
+55. [Mystic's Office Costumes](https://steamcommunity.com/sharedfiles/filedetails/?id=2862044942)
+56. [Spongie's Hair](https://steamcommunity.com/sharedfiles/filedetails/?id=2463184726)
+57. [Yaki's Hair Salon](https://steamcommunity.com/sharedfiles/filedetails/?id=2761200458) 
+    
 ### Pinned for Future Use
 8. [Autotsar Motorclub](https://steamcommunity.com/workshop/filedetails/?id=2778576730)
 9. [Autotsar Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356) 
