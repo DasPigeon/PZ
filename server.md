@@ -60,10 +60,6 @@
 54. [Hair Bows](https://steamcommunity.com/sharedfiles/filedetails/?id=2908747195)
 55. [The Unlimited](https://steamcommunity.com/sharedfiles/filedetails/?id=2709502667)
 
-### 22-11-2023 Update
-46. 
-
-
 ### Considerations
 - [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
 54. [Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370)
