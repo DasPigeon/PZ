@@ -49,6 +49,7 @@
 43. ['90 Mercedes-Benz Unimog U1550L](https://steamcommunity.com/sharedfiles/filedetails/?id=2843855721)
 44. ['93 Ford CF8000 Elgin Street Sweeper](https://steamcommunity.com/sharedfiles/filedetails/?id=2969343830)
 45. [Rename Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295)
+46. [Authentic Z](https://steamcommunity.com/sharedfiles/filedetails/?id=2335368829)
 
 
 ### 22-11-2023 Update
