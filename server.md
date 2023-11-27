@@ -63,5 +63,8 @@
 58. [TCCacheMP](https://steamcommunity.com/sharedfiles/filedetails/?id=2688809268) (pre-req mod)
 59. [True Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2613146550)
 60. [Ultimate Music Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2716415728)
+61. [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298)
+62. [More Zombie Death Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2925666054)
+63. [Hello Kitty Backpacks](https://steamcommunity.com/sharedfiles/filedetails/?id=3022845661)
 
 
