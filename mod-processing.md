@@ -1,8 +1,6 @@
 
 ### Testing 
-- [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298)
-- [More Zombie Death Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2925666054)
-- [Hello Kitty Backpacks](https://steamcommunity.com/sharedfiles/filedetails/?id=3022845661)
+
 - [ExtraNoise's Flag Tiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2784607980) (failed test) 
 
 ### To Test 
