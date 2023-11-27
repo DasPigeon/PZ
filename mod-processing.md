@@ -7,10 +7,16 @@
 59. https://steamcommunity.com/sharedfiles/filedetails/?id=2859508566
 60. https://steamcommunity.com/sharedfiles/filedetails/?id=2985394645
 61. [Stop, Drop and Roll](https://steamcommunity.com/sharedfiles/filedetails/?id=2908614026)
-62.  .
-63.  .
-64. https://steamcommunity.com/workshop/filedetails/?id=2613146550
-65. https://steamcommunity.com/sharedfiles/filedetails/?id=2716415728
+62. [More Zombie Death Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2925666054)
+63. [Hello Kitty Backpacks](https://steamcommunity.com/sharedfiles/filedetails/?id=3022845661)
+64. [KillCount](https://steamcommunity.com/sharedfiles/filedetails/?id=2553809727)
+65. [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298)
+66. [ExtraNoise's Flag Tiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2784607980)
+67. [Days Survived Leaderboard](https://steamcommunity.com/sharedfiles/filedetails/?id=3008498454)
+68. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806)
+69.  .
+70. https://steamcommunity.com/workshop/filedetails/?id=2613146550
+71. https://steamcommunity.com/sharedfiles/filedetails/?id=2716415728
 ### Considerations
 - [Ducks' Zombie Building Spawn Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2961467351)
 54. [Yaki's BarberShop](https://steamcommunity.com/sharedfiles/filedetails/?id=2810471370)
