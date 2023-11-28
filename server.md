@@ -76,5 +76,6 @@
 73. [More Description for Traits [41.78]](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362)
 74. [Manage Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2650547917)
 75. [Bunny Suits Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=3036556241)
+76. [Vehicle Light Chime](https://steamcommunity.com/sharedfiles/filedetails/?id=2742869038)
     
 
