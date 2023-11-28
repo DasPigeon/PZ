@@ -8,6 +8,7 @@
 
 
 ### To Test 
+- [SportXAI's Ambient Color [SP / MP]](https://steamcommunity.com/sharedfiles/filedetails/?id=3072719389)
 58. [More Description for Traits [41.78]](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362&searchtext=)
 59. https://steamcommunity.com/sharedfiles/filedetails/?id=3072719389
 60. https://steamcommunity.com/sharedfiles/filedetails/?id=2859508566
