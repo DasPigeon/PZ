@@ -71,6 +71,9 @@
 68. [Sleeping Bags](https://steamcommunity.com/sharedfiles/filedetails/?id=2714848168)
 69. [Another Vehicle Claim System](https://steamcommunity.com/sharedfiles/filedetails/?id=2957935793)
 70. [Stop, Drop and Roll](https://steamcommunity.com/sharedfiles/filedetails/?id=2908614026) (undergoing testing) 
-71. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806)(undergoing testing) 
+71. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806) (undergoing testing)
+72. [SportXAI's Ambient Color [SP / MP]](https://steamcommunity.com/sharedfiles/filedetails/?id=3072719389) (undergoing testing)
+73. [More Description for Traits [41.78]](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362)
+74. [Manage Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2650547917)
     
 
