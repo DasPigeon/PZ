@@ -2,8 +2,6 @@
 
 
 ### Enabled Mods 
-
-#### Vehicle Mods 
 1. ['87 Toyota Land Cruiser FJ60](https://steamcommunity.com/sharedfiles/filedetails/?id=2489148104)
 2. ['91 Range Rover Classic](https://steamcommunity.com/sharedfiles/filedetails/?id=2409333430) 
 3. ['92 AM General M998 + M101A3 Cargo Trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073) 
@@ -66,5 +64,9 @@
 61. [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298)
 62. [More Zombie Death Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2925666054)
 63. [Hello Kitty Backpacks](https://steamcommunity.com/sharedfiles/filedetails/?id=3022845661)
-
+64. [True Actions Dancing](https://steamcommunity.com/sharedfiles/filedetails/?id=2648779556)
+65. [Days Survived Leaderboard](https://steamcommunity.com/sharedfiles/filedetails/?id=3008498454)
+66. [KillCount](https://steamcommunity.com/sharedfiles/filedetails/?id=2553809727)
+67. [Take Any Amount](https://steamcommunity.com/sharedfiles/filedetails/?id=2985394645)
+68. [Sleeping Bags](https://steamcommunity.com/sharedfiles/filedetails/?id=2714848168)
 
