@@ -75,5 +75,6 @@
 72. [SportXAI's Ambient Color [SP / MP]](https://steamcommunity.com/sharedfiles/filedetails/?id=3072719389) (undergoing testing)
 73. [More Description for Traits [41.78]](https://steamcommunity.com/sharedfiles/filedetails/?id=2685168362)
 74. [Manage Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2650547917)
+75. [Bunny Suits Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=3036556241)
     
 
