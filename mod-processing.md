@@ -3,7 +3,7 @@
 -  (testing) 
 - [ExtraNoise's Flag Tiles](https://steamcommunity.com/sharedfiles/filedetails/?id=2784607980) (failed test) 
 - Vehicle Light Chime https://steamcommunity.com/sharedfiles/filedetails/?id=2742869038&searchtext=
-- [Bunny Suits Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=3036556241)
+- 
 - Rain Cleans Blood https://steamcommunity.com/sharedfiles/filedetails/?id=2956146279
 - Rain Wash https://steamcommunity.com/sharedfiles/filedetails/?id=2657661246
 
