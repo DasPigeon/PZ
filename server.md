@@ -69,7 +69,8 @@
 66. [KillCount](https://steamcommunity.com/sharedfiles/filedetails/?id=2553809727)
 67. [Take Any Amount](https://steamcommunity.com/sharedfiles/filedetails/?id=2985394645)
 68. [Sleeping Bags](https://steamcommunity.com/sharedfiles/filedetails/?id=2714848168)
-69. [Stop, Drop and Roll](https://steamcommunity.com/sharedfiles/filedetails/?id=2908614026) (undergoing testing) 
-70. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806)(undergoing testing) 
-71.  
+69. [Another Vehicle Claim System](https://steamcommunity.com/sharedfiles/filedetails/?id=2957935793)
+70. [Stop, Drop and Roll](https://steamcommunity.com/sharedfiles/filedetails/?id=2908614026) (undergoing testing) 
+71. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806)(undergoing testing) 
+    
 
