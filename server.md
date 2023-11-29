@@ -79,5 +79,5 @@
 76. [Vehicle Light Chime](https://steamcommunity.com/sharedfiles/filedetails/?id=2742869038)
 77. [Rain Cleans Blood] (https://steamcommunity.com/sharedfiles/filedetails/?id=2956146279) (undergoing testing)
 78. [Rain Wash] (https://steamcommunity.com/sharedfiles/filedetails/?id=2657661246) (undergoing testing)
-    
+79. [Add Random Sprinters](https://steamcommunity.com/sharedfiles/filedetails/?id=2797104510)
 
