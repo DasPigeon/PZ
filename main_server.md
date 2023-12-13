@@ -29,7 +29,6 @@
 25. More Descriptions for Traits 
 26. Vehicle Tweaker API 
 27. Small Town First Responders
-28. Immersive Medicine Revised 
 29. Arithmechick's Screams of Pain
 30. Agrotsar Farming Company
 31. [Arsenal[26] GunFighter Mod [2.0]](https://steamcommunity.com/sharedfiles/filedetails/?id=2297098490&searchtext=Arsenal%5B26%5D+GunFighter+Mod+%5B2.0%5D)
